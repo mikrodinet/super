@@ -1,8 +1,12 @@
-# SuperCalculator - All in one Calculator
+# Mikrodinet Super - All in one Calculator
 
-SuperCalculator is a collection of 20 different mathematics calculators performing specific Calculations, which was Just made using HTML, CSS and Pure Javascript without any framework or library.
+MAikrodinet SuperCalculator is a collection of 20 different mathematics calculators performing specific Calculations, which was Just made using HTML, CSS and Pure Javascript without any framework or library.
 
 This Project is Best for the beginners who want to learn Javascript projects without any frameworks or libraries. This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
+
+[HOME PAGE](https://www.mikrodinet.eu.org/)
+
+###### OPPEN THIS URL PAGE :
 
 ```
 https://www.mikrodinet.eu.org/
@@ -20,12 +24,13 @@ https://www.mikrodinet.eu.org/super/Function%20Graph%20Calculator/
 https://www.mikrodinet.eu.org/super/Love%20Calculator/
 https://www.mikrodinet.eu.org/super/Matrix/
 https://www.mikrodinet.eu.org/super/Mortage%20Calculator/
+https://www.mikrodinet.eu.org/Ohm%20Calcuator/
 https://www.mikrodinet.eu.org/super/Password%20Generator/
 https://www.mikrodinet.eu.org/super/QR%20Generator%20and%20reader/
 https://www.mikrodinet.eu.org/super/Quadratic/
 https://www.mikrodinet.eu.org/super/Resistor%20Colour%20Code/
 https://www.mikrodinet.eu.org/super/Scientific%20Calculator/
-https://www.mikrodinet.eu.org/super/Statistics%20Calculator
+https://www.mikrodinet.eu.org/super/Statistics%20Calculator/
 https://www.mikrodinet.eu.org/super/Unit%20conversion/
 https://www.mikrodinet.eu.org/super/index.html
 
@@ -40,7 +45,7 @@ Homepage consists of all 21 Calculator Stacked in single page with links to the 
 
 <img src="screeenshot/home1.png" width="350" title="hover text"><img src="screeenshot/home2.png" width="350" title="hover text">
 
-### demo: https://super-calculator.netlify.app/
+### demo: https://www.mikrodinet.eu.org/super
 
 ## 1. Scientific Calculator
 
@@ -50,7 +55,7 @@ It also contain History tab which consists of calculation history and constant T
 
 <img src="screeenshot/scientific.png" width="650" title="hover text">
 
-### Demo: https://scientific-calc.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Scientific%20Calculator/
 
 ## 2. Currency Converter
 
@@ -60,7 +65,7 @@ The API is used from api.exchangeratesapi.io, its a free version API with 1000 A
 
 <img src="screeenshot/currency.png" width="650" title="hover text">
 
-### Demo: http://currency-converterzz.000webhostapp.com/
+### Demo: https://www.mikrodinet.eu.org/super/Currency%20Conversion/
 
 ## 3. Live Crypto Rate Tracker
 
@@ -72,7 +77,7 @@ Some of Stock companies is also available that are my fav stocks from trading vi
 
 <img src="screeenshot/crypto.png" width="650" title="hover text">
 
-### Demo: https://crypto-ratetracker.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Crypto%20Exchange%20Rate/
 
 ## 4. Unit Conversion
 
@@ -80,7 +85,7 @@ Convert Units like Accelaration, Area, Length, Power, Torque, Volume, Density, P
 
 <img src="screeenshot/unit.png" width="650" title="hover text">
 
-### Demo: https://unit-conveersion.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Unit%20conversion/
 
 # 5. Password Generator and Checker
 
@@ -92,7 +97,7 @@ You can also Check your password Strongness and how much time will it take to cr
 
 #### Note: None of your Password is stored. Its Just frontend means all things get executed in Your System.
 
-### Demo: https://pasword-generator.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Password%20Generator/
 
 ## 6. Fraction Calculator
 
@@ -102,7 +107,7 @@ Initially it has 2 fractions but you can add n no of fraction to perform operati
 
 <img src="screeenshot/fraction.png" width="650" title="hover text">
 
-### Demo: https://fraction-calculator.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Fractional%20Calculator/
 
 ## 7.Statistics Calculator
 
@@ -110,7 +115,7 @@ Stastics Claculator consisits of operation like finding Sum, Sum of Squares, Mea
 
 <img src="screeenshot/stat1.png" width="350" title="hover text"><img src="screeenshot/stat2.png" width="350" title="hover text">
 
-### Demo: https://statistics-calculator.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Statistics%20Calculator/
 
 ## 8. QR Code Scanner and Creator
 
@@ -118,7 +123,8 @@ Read QR code and create QR code including text, URL, ISBN, phone number, sms, co
 
 <img src="screeenshot/qr.png" width="650" title="hover text">
 
-### Demo: https://qr-generatr.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/QR%20Generator%20and%20reader/
+          https://app.mikrodinet.eu.org
 
 ## 9. Quadratic Equation Solver
 
@@ -128,7 +134,7 @@ The calculator solution will show work using the quadratic formula to solve the 
 
 <img src="screeenshot/quad.png" width="650" title="hover text">
 
-### Demo: https://quadratic-calculator.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Quadratic/
 
 ## 10. Loan Calculator
 
@@ -138,7 +144,7 @@ It has Clear UI and Totally responsive Input and output Table with Logics Given 
 
 <img src="screeenshot/loan1.png" width="350" title="hover text"> <img src="screeenshot/loan2.png" width="350" title="hover text">
 
-### Demo: https://emi-calculatorr.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/EMI%20Calculator/
 
 ## 11. Mortage/Home Loan Calculator
 
@@ -148,7 +154,7 @@ It contain more beautifual UI than Previous one with fully responsive and slider
 
 <img src="screeenshot/mortage.png" width="650" title="hover text">
 
-### Demo: https://mortage.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Mortage%20Calculator/
                                                                                                                                                                                                                                   
 ## 12. Matrix Calculator
 
@@ -158,7 +164,7 @@ Swap matrix A with B or R and vice versa also find adjacent, inverse and determi
 
 <img src="screeenshot/matrix.png" width="650" title="hover text">
 
-### Demo: https://matric-calculator.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Matrix/
 
 ## 13. Binary Calculator
 
@@ -166,7 +172,7 @@ Perform Addition, substraction, Multiplication, Devision of Binary/Decimal/Octal
 
 <img src="screeenshot/binary1.png" width="350" title="hover text"> <img src="screeenshot/binary2.png" width="350" title="hover text">
 
-### Demo: https://binary-calculatorr.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Binary/
 
 ## 14.Age Calculator
 
@@ -176,7 +182,7 @@ With my age calculator, you can find out how many years, months, weeks, days and
 
 <img src="screeenshot/age.png" width="650" title="hover text">
 
-### Demo: https://age-calculatorr.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Age%20Calculator/
 
 ## 15. Love Calculator
 
@@ -184,7 +190,7 @@ This calculator is only for fun. Find the percentage of love with your crush you
 
 <img src="screeenshot/love.png" width="650" title="hover text">
 
-### Demo: https://love-calculatorr.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Love%20Calculator/
 
 ## 16. BMI Calculator
 
@@ -194,7 +200,7 @@ IT also has a responsive BMi Table to compare your results. It also include a Bo
 
 <img src="screeenshot/bmi1.png" width="350" title="hover text"> <img src="screeenshot/bmi2.png" width="350" title="hover text"> <img src="screeenshot/bmi3.png" width="350" title="hover text">
 
-### Demo: https://bmi-calcuator.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/BMI%20Calculator/
 
 ## 17. Ohm's Law Calculator
 
@@ -202,7 +208,7 @@ Simple to use Ohm's Law Calculator. Calculate Power, Current, Voltage or Resista
 
 <img src="screeenshot/ohm1.png" width="350" title="hover text"> <img src="screeenshot/ohms2.png" width="350" title="hover text">
 
-### Demo: https://ohm-law.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/Ohm%20Calcuator/
 
 ## 18. Equivalent Resistance Calculator
 
@@ -212,7 +218,7 @@ Its also has ample of example of how to use this calculator to simplify complex 
 
 <img src="screeenshot/res1.png" width="350" title="hover text"> <img src="screeenshot/res2.png" width="350" title="hover text">
 
-### Demo: https://resistance-calculator.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Equivalent%20Resistance/
 
 ## 19. Resistor color code calculator
 
@@ -222,7 +228,7 @@ It has a simple UI and made in pure Javascript just like other calculators.
 
 <img src="screeenshot/rescolour.png" width="650" title="hover text">
 
-### Demo: https://resistor-code.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Resistor%20Colour%20Code/
 
 ##20. 2-D Function Graphing Calculator
 
@@ -230,7 +236,7 @@ Interactive, free online graphing calculator from functions, plot data, drag sli
 
 <img src="screeenshot/2d.png" width="650" title="hover text">
 
-### Demo: https://2d-graph.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/Fractional%20Calculator/
 
 ## 21. 3-D Function Graphing Calculator
 
@@ -238,7 +244,7 @@ Try this awesome 3-D function grphing calculator to make 3d graphs. Its also con
 
 <img src="screeenshot/3d.png" width="650" title="hover text">
 
-### Demo: https://3d-grapher.netlify.app/
+### Demo: https://www.mikrodinet.eu.org/super/3D%20grapher/
 
 # Technologies Used:
 
