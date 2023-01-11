@@ -23,7 +23,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href='https://fonts.googleapis.com/css?family=Lato:400,300,400italic,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
-<title>Mikrofinet SuperCalculator</title>
+<title>Mikrofinet Super All Calculator</title>
+<meta name="description" content="Mikrodinet SuperCalculator is a collection of 20 different mathematics calculators performing specific Calculations, which was Just made using HTML, CSS and Pure Javascript without any framework or library." />
 <meta name="twitter:image" content="https://www.mikrodinet.eu.org/asset/img/ico.png" />
 <meta name="google-adsense-platform-account" content="ca-host-pub-6827901881006590">
 <meta name="google-adsense-account" content="ca-pub-6827901881006590">
@@ -34,15 +35,167 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6827901881006590" crossorigin="anonymous" type="0b6ce9a06853ce66306e49fa-text/javascript"></script>
 <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js" type="0b6ce9a06853ce66306e49fa-text/javascript">
 </script>
+
+<style type="text/css">
+canvas {
+display: block;
+vertical-align: bottom;
+z-index: -1;
+}
+
+#particles-js {
+width: 100%;
+height: 100%;
+position: fixed;
+z-index: -10;
+top: 0;
+left: 0
+}</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- =======================================================
+* Template Name: Super FULL Website - v1.1.1
+* Template URL: https://mikrodinet.github.io
+* Author: awdev - https://www.awdev.my.id
+* License: https://www.awdev.my.id/license/
+======================================================== -->
+
 </head>
 
 <body>
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="javascript:void(0);">Mikrodinet Super</a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="nav navbar-nav pull-right">
+<li>
+<a href="/" target="_blank">Home</a>
+</li>
+<li>
+<a href="https://bit.ly/3weJFOn" target="_blank">Work</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/HTML/index.html" target="_blank">Skill</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/hero/app/refresh/index.html" target="_blank">Hero Refesh</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/ANIMATION/RGB-COLOR.html" target="_blank">RGB Collor</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/hero/app/twibbon/index.html " target="_blank">Twibbon</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/animation/" target="_blank">Animation</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/HTML/TOOLS/visitor-badge.html" target="_blank">Visitor Badge</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/HTML/TOOLS/Markdown.html" target="_blank">Markdown</a>
+</li>
+<li>
+<a href="https://bit.ly/37Nuan1" target="_blank">Readme Generator</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/HTML/TOOLS/QR.html " target="_blank">QR Generator</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/link-lock/create/" target="_blank">Link-Lock</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/DASHBOARD/TOOLS/ONLINE/" target="_blank">Online Tools</a>
+</li>
+<li>
+<a href="https://wahyu9kdl.github.io/DASHBOARD/PROJECTS/archers-island-master/" target="_blank">Archer's Island</a>
+</li>
+<li>
+<a href="https://www.awdev.eu.org" target="_blank">Courses</a>
+</li>
+<li>
+<a href="https://www.awdev.my.id" target="_blank">Devoloper Profile</a>
+</li>
+<li>
+<a href="https://web.mikrodinet.eu.org/" target="_blank">Website Mikrodinet</a>
+</li>
+<li>
+<a href="https://app.mikrodinet.eu.org/ " target="_blank">App Mikrodinet</a>
+</li>
+<li>
+<a href="https://docker.mikrodinet.eu.org/ " target="_blank">Docker Mikrodinet</a>
+</li>
+<li>
+<a href="https://www.mikrodinet.eu.org/made/" target="_blank">Made In Indonesia </a>
+</li>
+<li>
+<a href="https://cloud.mikrodinet.eu.org/ " target="_blank">Cloud Mikrodinet</a>
+</li>
+<li>
+<a href="https://www.mikrodinet.eu.org/square/battle.html" target="_blank">Mikrodinet Battle </a>
+</li>
+<li>
+<a href="https://www.mikrodinet.eu.org/square/ " target="_blank">Git Square</a>
+</li>
+<li>
+<a class="dropdown-item" href="https://www.mikrodinet.eu.org/ace/ " target="_blank">♾  Ace  </a>											
+</li>
+<li>
+<a class="dropdown-item" href="https://www.mikrodinet.eu.org/super/ " target="_blank">☣  Super  </a>											
+</li>
+<li>
+<a class="dropdown-item" href="https://awdev-corporation.github.io/search/cse.html " target="_blank">🔎 Search</a>											
+</li>
+<li>
+<a class="dropdown-item" href="tools/button/index.html " target="_blank">🔳 Button Generator</a>
+</li>
+<li>
+<a class="dropdown-item" href=" tools/screenshoot/index.html " target="_blank">🏞 ScreenShoot</a>
+</li>
+<li>
+<a href="https://saweria.co/AwGroupChannel" target="_blank">Support Donation </a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+
 <center>
 <h1 id="mikrodinet-super-all-in-one-calculator">Mikrodinet Super - All in one Calculator</h1>
 <p>Mikrodinet SuperCalculator is a collection of 20 different mathematics calculators performing specific Calculations, which was Just made using HTML, CSS and Pure Javascript without any framework or library.</p>
 <p>This Project is Best for the beginners who want to learn Javascript projects without any frameworks or libraries. This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.</p>
 <p><a href="https://www.mikrodinet.eu.org/">HOME PAGE</a></p>
 <h6 id="oppen-this-url-page-">OPPEN THIS URL PAGE :</h6>
+<!-- Ads -->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6827901881006590"
+crossorigin="anonymous"></script>
+<!-- display -->
+<ins class="adsbygoogle"
+style="display:block"
+data-ad-client="ca-pub-6827901881006590"
+data-ad-slot="4584348588"
+data-ad-format="auto"
+data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!-- Ads -->
+
+<div id='particles-js'></div>
+<script src="https://www.mikrodinet.eu.org/js/find.js"></script>
+</center>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
 <pre><code>
 
 <a href="https://www.mikrodinet.eu.org/super">https://www.mikrodinet.eu.org/super</a>
